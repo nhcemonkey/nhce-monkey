@@ -8,6 +8,7 @@
 ||总计建议数||1||已回复数||1||已采纳数||1||
 ||总计其他信息数||3||已回复数||3||||||
 
+https://chart.googleapis.com/chart?cht=p&chs=340x240&chp=3.14&chco=058dc7%2C50b432%2Ced561b%2Cedef00%2C24cbe5%2C64e572%2Cff9655%2Cfff263%2C6af9c4%2Cb2deff%2Ccccccc&chl=53.77%25%7C34.72%25%7C3.35%25%7C2.78%25%7C1.71%25%7C1.46%25%7C0.68%25%7C0.28%25%7C0.21%25%7C0.07%25%7C0.96%25&chd=e%3AiaWNCJBxBGA7AbALAIACAn&nonsense=.png
 ----
 ==详细列表：==
 
