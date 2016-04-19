@@ -1,0 +1,36 @@
+<!-- Answer Record of Mr. Monkey V2.5c-->
+<!-- Generated in Fri Apr 06 14:23:42 CST 2012 -->
+
+<nhmonkey.Recorder_-Form>
+  <bookID>16</bookID>
+  <unitID>2</unitID>
+  <sectionID>2</sectionID>
+  <sisterID>6</sisterID>
+  <testID>2.6</testID>
+  <inputs>
+    <nhmonkey.Recorder_-Input>
+      <name>Item_743</name>
+      <value>尽管那项计划一开始就证明是不切实际的，但是他们还是坚持要实施。</value>
+    </nhmonkey.Recorder_-Input>
+    <nhmonkey.Recorder_-Input>
+      <name>Item_744</name>
+      <value>我无法说服他接受这项计划，也无法使他认识到这项计划的重要性。</value>
+    </nhmonkey.Recorder_-Input>
+    <nhmonkey.Recorder_-Input>
+      <name>Item_745</name>
+      <value>你是怎么把那么多东西塞进这个小行李箱的？</value>
+    </nhmonkey.Recorder_-Input>
+    <nhmonkey.Recorder_-Input>
+      <name>Item_746</name>
+      <value>别人对他怎么看，他全不在意。</value>
+    </nhmonkey.Recorder_-Input>
+    <nhmonkey.Recorder_-Input>
+      <name>Item_747</name>
+      <value>我能否指出你犯了个小错误？</value>
+    </nhmonkey.Recorder_-Input>
+    <nhmonkey.Recorder_-Input>
+      <name>Item_748</name>
+      <value>他母亲让他开车慢一点儿，但是他从不把她的话放在心上。</value>
+    </nhmonkey.Recorder_-Input>
+  </inputs>
+</nhmonkey.Recorder_-Form>

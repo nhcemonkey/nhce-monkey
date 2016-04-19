@@ -1,0 +1,52 @@
+<!-- Answer Record of Mr. Monkey V2.6b-->
+<!-- Generated in Fri Jun 08 20:46:08 CST 2012 -->
+
+<nhmonkey.Recorder_-Form>
+  <bookID>15</bookID>
+  <unitID>3</unitID>
+  <sectionID>2</sectionID>
+  <sisterID>3</sisterID>
+  <testID>2.3</testID>
+  <inputs>
+    <nhmonkey.Recorder_-Input>
+      <name>Item_211_0</name>
+      <value>community</value>
+    </nhmonkey.Recorder_-Input>
+    <nhmonkey.Recorder_-Input>
+      <name>Item_211_1</name>
+      <value>amazed</value>
+    </nhmonkey.Recorder_-Input>
+    <nhmonkey.Recorder_-Input>
+      <name>Item_211_2</name>
+      <value>guidance</value>
+    </nhmonkey.Recorder_-Input>
+    <nhmonkey.Recorder_-Input>
+      <name>Item_211_3</name>
+      <value>aid</value>
+    </nhmonkey.Recorder_-Input>
+    <nhmonkey.Recorder_-Input>
+      <name>Item_211_4</name>
+      <value>extra</value>
+    </nhmonkey.Recorder_-Input>
+    <nhmonkey.Recorder_-Input>
+      <name>Item_211_5</name>
+      <value>attitude</value>
+    </nhmonkey.Recorder_-Input>
+    <nhmonkey.Recorder_-Input>
+      <name>Item_211_6</name>
+      <value>bother</value>
+    </nhmonkey.Recorder_-Input>
+    <nhmonkey.Recorder_-Input>
+      <name>Item_211_7</name>
+      <value>occasion</value>
+    </nhmonkey.Recorder_-Input>
+    <nhmonkey.Recorder_-Input>
+      <name>Item_211_8</name>
+      <value>complaints</value>
+    </nhmonkey.Recorder_-Input>
+    <nhmonkey.Recorder_-Input>
+      <name>Item_211_9</name>
+      <value>regret</value>
+    </nhmonkey.Recorder_-Input>
+  </inputs>
+</nhmonkey.Recorder_-Form>

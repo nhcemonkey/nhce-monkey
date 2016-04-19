@@ -1,0 +1,52 @@
+<!-- Answer Record of Mr. Monkey V2.6b-->
+<!-- Generated in Thu May 31 13:08:24 CST 2012 -->
+
+<nhmonkey.Recorder_-Form>
+  <bookID>15</bookID>
+  <unitID>1</unitID>
+  <sectionID>2</sectionID>
+  <sisterID>3</sisterID>
+  <testID>2.3</testID>
+  <inputs>
+    <nhmonkey.Recorder_-Input>
+      <name>Item_26_0</name>
+      <value>rewarding</value>
+    </nhmonkey.Recorder_-Input>
+    <nhmonkey.Recorder_-Input>
+      <name>Item_26_1</name>
+      <value>frustrating</value>
+    </nhmonkey.Recorder_-Input>
+    <nhmonkey.Recorder_-Input>
+      <name>Item_26_2</name>
+      <value>post</value>
+    </nhmonkey.Recorder_-Input>
+    <nhmonkey.Recorder_-Input>
+      <name>Item_26_3</name>
+      <value>embarrassed</value>
+    </nhmonkey.Recorder_-Input>
+    <nhmonkey.Recorder_-Input>
+      <name>Item_26_4</name>
+      <value>insights</value>
+    </nhmonkey.Recorder_-Input>
+    <nhmonkey.Recorder_-Input>
+      <name>Item_26_5</name>
+      <value>benefit</value>
+    </nhmonkey.Recorder_-Input>
+    <nhmonkey.Recorder_-Input>
+      <name>Item_26_6</name>
+      <value>explanation</value>
+    </nhmonkey.Recorder_-Input>
+    <nhmonkey.Recorder_-Input>
+      <name>Item_26_7</name>
+      <value>minimum</value>
+    </nhmonkey.Recorder_-Input>
+    <nhmonkey.Recorder_-Input>
+      <name>Item_26_8</name>
+      <value>virtual</value>
+    </nhmonkey.Recorder_-Input>
+    <nhmonkey.Recorder_-Input>
+      <name>Item_26_9</name>
+      <value>comfortable</value>
+    </nhmonkey.Recorder_-Input>
+  </inputs>
+</nhmonkey.Recorder_-Form>

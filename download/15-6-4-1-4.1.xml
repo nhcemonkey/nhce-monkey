@@ -1,0 +1,52 @@
+<!-- Answer Record of Mr. Monkey V2.6b-->
+<!-- Generated in Wed Nov 14 16:52:00 CST 2012 -->
+
+<nhmonkey.Recorder_-Form>
+  <bookID>15</bookID>
+  <unitID>6</unitID>
+  <sectionID>4</sectionID>
+  <sisterID>1</sisterID>
+  <testID>4.1</testID>
+  <inputs>
+    <nhmonkey.Recorder_-Input>
+      <name>q1</name>
+      <value>Y</value>
+    </nhmonkey.Recorder_-Input>
+    <nhmonkey.Recorder_-Input>
+      <name>q2</name>
+      <value>N</value>
+    </nhmonkey.Recorder_-Input>
+    <nhmonkey.Recorder_-Input>
+      <name>q3</name>
+      <value>N</value>
+    </nhmonkey.Recorder_-Input>
+    <nhmonkey.Recorder_-Input>
+      <name>q4</name>
+      <value>N</value>
+    </nhmonkey.Recorder_-Input>
+    <nhmonkey.Recorder_-Input>
+      <name>q5</name>
+      <value>Y</value>
+    </nhmonkey.Recorder_-Input>
+    <nhmonkey.Recorder_-Input>
+      <name>q6</name>
+      <value>NG</value>
+    </nhmonkey.Recorder_-Input>
+    <nhmonkey.Recorder_-Input>
+      <name>q7</name>
+      <value>Y</value>
+    </nhmonkey.Recorder_-Input>
+    <nhmonkey.Recorder_-Input>
+      <name>q8</name>
+      <value>take 10% off the hourly charge</value>
+    </nhmonkey.Recorder_-Input>
+    <nhmonkey.Recorder_-Input>
+      <name>q9</name>
+      <value>back up his files</value>
+    </nhmonkey.Recorder_-Input>
+    <nhmonkey.Recorder_-Input>
+      <name>q10</name>
+      <value>6 p.m.</value>
+    </nhmonkey.Recorder_-Input>
+  </inputs>
+</nhmonkey.Recorder_-Form>

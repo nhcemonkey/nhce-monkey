@@ -1,0 +1,52 @@
+<!-- Answer Record of Mr. Monkey V2.6b-->
+<!-- Generated in Tue Nov 20 09:05:08 CST 2012 -->
+
+<nhmonkey.Recorder_-Form>
+  <bookID>15</bookID>
+  <unitID>6</unitID>
+  <sectionID>3</sectionID>
+  <sisterID>4</sisterID>
+  <testID>3.4</testID>
+  <inputs>
+    <nhmonkey.Recorder_-Input>
+      <name>Item_575_0</name>
+      <value>out</value>
+    </nhmonkey.Recorder_-Input>
+    <nhmonkey.Recorder_-Input>
+      <name>Item_576_0</name>
+      <value>up</value>
+    </nhmonkey.Recorder_-Input>
+    <nhmonkey.Recorder_-Input>
+      <name>Item_577_0</name>
+      <value>out</value>
+    </nhmonkey.Recorder_-Input>
+    <nhmonkey.Recorder_-Input>
+      <name>Item_578_0</name>
+      <value>around</value>
+    </nhmonkey.Recorder_-Input>
+    <nhmonkey.Recorder_-Input>
+      <name>Item_579_0</name>
+      <value>up</value>
+    </nhmonkey.Recorder_-Input>
+    <nhmonkey.Recorder_-Input>
+      <name>Item_580_0</name>
+      <value>to</value>
+    </nhmonkey.Recorder_-Input>
+    <nhmonkey.Recorder_-Input>
+      <name>Item_581_0</name>
+      <value>to</value>
+    </nhmonkey.Recorder_-Input>
+    <nhmonkey.Recorder_-Input>
+      <name>Item_582_0</name>
+      <value>for</value>
+    </nhmonkey.Recorder_-Input>
+    <nhmonkey.Recorder_-Input>
+      <name>Item_583_0</name>
+      <value>of</value>
+    </nhmonkey.Recorder_-Input>
+    <nhmonkey.Recorder_-Input>
+      <name>Item_584_0</name>
+      <value>to</value>
+    </nhmonkey.Recorder_-Input>
+  </inputs>
+</nhmonkey.Recorder_-Form>

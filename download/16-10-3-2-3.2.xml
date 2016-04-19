@@ -1,0 +1,44 @@
+<!-- Answer Record of Mr. Monkey V2.5c-->
+<!-- Generated in Sun Apr 08 21:04:33 CST 2012 -->
+
+<nhmonkey.Recorder_-Form>
+  <bookID>16</bookID>
+  <unitID>10</unitID>
+  <sectionID>3</sectionID>
+  <sisterID>2</sisterID>
+  <testID>3.2</testID>
+  <inputs>
+    <nhmonkey.Recorder_-Input>
+      <name>q1</name>
+      <value>B</value>
+    </nhmonkey.Recorder_-Input>
+    <nhmonkey.Recorder_-Input>
+      <name>q2</name>
+      <value>A</value>
+    </nhmonkey.Recorder_-Input>
+    <nhmonkey.Recorder_-Input>
+      <name>q3</name>
+      <value>A</value>
+    </nhmonkey.Recorder_-Input>
+    <nhmonkey.Recorder_-Input>
+      <name>q4</name>
+      <value>B</value>
+    </nhmonkey.Recorder_-Input>
+    <nhmonkey.Recorder_-Input>
+      <name>q5</name>
+      <value>A</value>
+    </nhmonkey.Recorder_-Input>
+    <nhmonkey.Recorder_-Input>
+      <name>q6</name>
+      <value>B</value>
+    </nhmonkey.Recorder_-Input>
+    <nhmonkey.Recorder_-Input>
+      <name>q7</name>
+      <value>B</value>
+    </nhmonkey.Recorder_-Input>
+    <nhmonkey.Recorder_-Input>
+      <name>q8</name>
+      <value>B</value>
+    </nhmonkey.Recorder_-Input>
+  </inputs>
+</nhmonkey.Recorder_-Form>

@@ -1,0 +1,52 @@
+<!-- Answer Record of Mr. Monkey V2.6b-->
+<!-- Generated in Thu May 31 13:20:14 CST 2012 -->
+
+<nhmonkey.Recorder_-Form>
+  <bookID>15</bookID>
+  <unitID>2</unitID>
+  <sectionID>2</sectionID>
+  <sisterID>3</sisterID>
+  <testID>2.3</testID>
+  <inputs>
+    <nhmonkey.Recorder_-Input>
+      <name>Item_135_0</name>
+      <value>comment</value>
+    </nhmonkey.Recorder_-Input>
+    <nhmonkey.Recorder_-Input>
+      <name>Item_135_1</name>
+      <value>upset</value>
+    </nhmonkey.Recorder_-Input>
+    <nhmonkey.Recorder_-Input>
+      <name>Item_135_2</name>
+      <value>appeal</value>
+    </nhmonkey.Recorder_-Input>
+    <nhmonkey.Recorder_-Input>
+      <name>Item_135_3</name>
+      <value>unique</value>
+    </nhmonkey.Recorder_-Input>
+    <nhmonkey.Recorder_-Input>
+      <name>Item_135_4</name>
+      <value>embarrassing</value>
+    </nhmonkey.Recorder_-Input>
+    <nhmonkey.Recorder_-Input>
+      <name>Item_135_5</name>
+      <value>pierced</value>
+    </nhmonkey.Recorder_-Input>
+    <nhmonkey.Recorder_-Input>
+      <name>Item_135_6</name>
+      <value>negative</value>
+    </nhmonkey.Recorder_-Input>
+    <nhmonkey.Recorder_-Input>
+      <name>Item_135_7</name>
+      <value>remove</value>
+    </nhmonkey.Recorder_-Input>
+    <nhmonkey.Recorder_-Input>
+      <name>Item_135_8</name>
+      <value>awful</value>
+    </nhmonkey.Recorder_-Input>
+    <nhmonkey.Recorder_-Input>
+      <name>Item_135_9</name>
+      <value>absolutely</value>
+    </nhmonkey.Recorder_-Input>
+  </inputs>
+</nhmonkey.Recorder_-Form>

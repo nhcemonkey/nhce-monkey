@@ -1,0 +1,36 @@
+<!-- Answer Record of Mr. Monkey V2.4-4-->
+<!-- Generated in Fri Mar 16 17:36:52 CST 2012 -->
+
+<nhmonkey.Recorder_-Form>
+  <bookID>18</bookID>
+  <unitID>6</unitID>
+  <sectionID>2</sectionID>
+  <sisterID>6</sisterID>
+  <testID>2.6</testID>
+  <inputs>
+    <nhmonkey.Recorder_-Input>
+      <name>Item_116</name>
+      <value>假设有人向你行贿，要换取一种承诺，你会怎么做？是接受呢，还是坚持自己的原则?</value>
+    </nhmonkey.Recorder_-Input>
+    <nhmonkey.Recorder_-Input>
+      <name>Item_117</name>
+      <value>现在人们不会忍受那些糟糕的境况，可是在那些日子里却只能接受那样的现实。</value>
+    </nhmonkey.Recorder_-Input>
+    <nhmonkey.Recorder_-Input>
+      <name>Item_118</name>
+      <value>大学校园里形形色色的作弊现象越来越多，我已不记得这学期有多少学生因作弊而被捉住了。</value>
+    </nhmonkey.Recorder_-Input>
+    <nhmonkey.Recorder_-Input>
+      <name>Item_119</name>
+      <value>当艾奇先生被披露曾受贿时，他不得不退出州长职位的竞争。</value>
+    </nhmonkey.Recorder_-Input>
+    <nhmonkey.Recorder_-Input>
+      <name>Item_120</name>
+      <value>虽然他原先完全支持改革政策，可后来却开始抨击这场改革运动了。</value>
+    </nhmonkey.Recorder_-Input>
+    <nhmonkey.Recorder_-Input>
+      <name>Item_121</name>
+      <value>这位教授肯定不会同意翻译基本是在词典里查生词的观点。</value>
+    </nhmonkey.Recorder_-Input>
+  </inputs>
+</nhmonkey.Recorder_-Form>

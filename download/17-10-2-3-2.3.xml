@@ -1,0 +1,52 @@
+<!-- Answer Record of Mr. Monkey V2.6b-->
+<!-- Generated in Tue Oct 02 18:14:32 CST 2012 -->
+
+<nhmonkey.Recorder_-Form>
+  <bookID>17</bookID>
+  <unitID>10</unitID>
+  <sectionID>2</sectionID>
+  <sisterID>3</sisterID>
+  <testID>2.3</testID>
+  <inputs>
+    <nhmonkey.Recorder_-Input>
+      <name>Item_882_0</name>
+      <value>accomplish</value>
+    </nhmonkey.Recorder_-Input>
+    <nhmonkey.Recorder_-Input>
+      <name>Item_882_1</name>
+      <value>overtake</value>
+    </nhmonkey.Recorder_-Input>
+    <nhmonkey.Recorder_-Input>
+      <name>Item_882_2</name>
+      <value>handicap</value>
+    </nhmonkey.Recorder_-Input>
+    <nhmonkey.Recorder_-Input>
+      <name>Item_882_3</name>
+      <value>tension</value>
+    </nhmonkey.Recorder_-Input>
+    <nhmonkey.Recorder_-Input>
+      <name>Item_882_4</name>
+      <value>widen</value>
+    </nhmonkey.Recorder_-Input>
+    <nhmonkey.Recorder_-Input>
+      <name>Item_882_5</name>
+      <value>guilty</value>
+    </nhmonkey.Recorder_-Input>
+    <nhmonkey.Recorder_-Input>
+      <name>Item_882_6</name>
+      <value>challenge</value>
+    </nhmonkey.Recorder_-Input>
+    <nhmonkey.Recorder_-Input>
+      <name>Item_882_7</name>
+      <value>ruin</value>
+    </nhmonkey.Recorder_-Input>
+    <nhmonkey.Recorder_-Input>
+      <name>Item_882_8</name>
+      <value>survive</value>
+    </nhmonkey.Recorder_-Input>
+    <nhmonkey.Recorder_-Input>
+      <name>Item_882_9</name>
+      <value>maintain</value>
+    </nhmonkey.Recorder_-Input>
+  </inputs>
+</nhmonkey.Recorder_-Form>

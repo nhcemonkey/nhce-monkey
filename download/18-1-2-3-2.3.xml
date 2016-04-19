@@ -1,0 +1,52 @@
+<!-- Answer Record of Mr. Monkey V2.1-->
+<!-- Generated in Sun Mar 04 12:52:20 CST 2012 -->
+
+<nhmonkey.Recorder_-Form>
+  <bookID>18</bookID>
+  <unitID>1</unitID>
+  <sectionID>2</sectionID>
+  <sisterID>3</sisterID>
+  <testID>2.3</testID>
+  <inputs>
+    <nhmonkey.Recorder_-Input>
+      <name>Item_25_0</name>
+      <value>object</value>
+    </nhmonkey.Recorder_-Input>
+    <nhmonkey.Recorder_-Input>
+      <name>Item_25_1</name>
+      <value>protests</value>
+    </nhmonkey.Recorder_-Input>
+    <nhmonkey.Recorder_-Input>
+      <name>Item_25_2</name>
+      <value>worshipping</value>
+    </nhmonkey.Recorder_-Input>
+    <nhmonkey.Recorder_-Input>
+      <name>Item_25_3</name>
+      <value>fancy</value>
+    </nhmonkey.Recorder_-Input>
+    <nhmonkey.Recorder_-Input>
+      <name>Item_25_4</name>
+      <value>originally</value>
+    </nhmonkey.Recorder_-Input>
+    <nhmonkey.Recorder_-Input>
+      <name>Item_25_5</name>
+      <value>altitude</value>
+    </nhmonkey.Recorder_-Input>
+    <nhmonkey.Recorder_-Input>
+      <name>Item_25_6</name>
+      <value>wake</value>
+    </nhmonkey.Recorder_-Input>
+    <nhmonkey.Recorder_-Input>
+      <name>Item_25_7</name>
+      <value>cruelty</value>
+    </nhmonkey.Recorder_-Input>
+    <nhmonkey.Recorder_-Input>
+      <name>Item_25_8</name>
+      <value>desperate</value>
+    </nhmonkey.Recorder_-Input>
+    <nhmonkey.Recorder_-Input>
+      <name>Item_25_9</name>
+      <value>bankrupt</value>
+    </nhmonkey.Recorder_-Input>
+  </inputs>
+</nhmonkey.Recorder_-Form>

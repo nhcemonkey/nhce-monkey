@@ -1,0 +1,28 @@
+<!-- Answer Record of Mr. Monkey V2.6b-->
+<!-- Generated in Thu May 31 13:49:42 CST 2012 -->
+
+<nhmonkey.Recorder_-Form>
+  <bookID>17</bookID>
+  <unitID>3</unitID>
+  <sectionID>3</sectionID>
+  <sisterID>1</sisterID>
+  <testID>3.1</testID>
+  <inputs>
+    <nhmonkey.Recorder_-Input>
+      <name>Item_0</name>
+      <value>To discuss in detail the &quot;unique cultural factors&quot; that affect decision-making.</value>
+    </nhmonkey.Recorder_-Input>
+    <nhmonkey.Recorder_-Input>
+      <name>Item_1</name>
+      <value>For some information about the Western-style decision-making.</value>
+    </nhmonkey.Recorder_-Input>
+    <nhmonkey.Recorder_-Input>
+      <name>Item_2</name>
+      <value>How they react after the agreement is made.</value>
+    </nhmonkey.Recorder_-Input>
+    <nhmonkey.Recorder_-Input>
+      <name>Item_3</name>
+      <value>By giving an example to illustrate the point.</value>
+    </nhmonkey.Recorder_-Input>
+  </inputs>
+</nhmonkey.Recorder_-Form>

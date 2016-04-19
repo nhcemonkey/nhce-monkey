@@ -1,0 +1,32 @@
+<!-- Answer Record of Mr. Monkey V2.6b-->
+<!-- Generated in Thu May 31 15:18:04 CST 2012 -->
+
+<nhmonkey.Recorder_-Form>
+  <bookID>15</bookID>
+  <unitID>3</unitID>
+  <sectionID>3</sectionID>
+  <sisterID>1</sisterID>
+  <testID>3.1</testID>
+  <inputs>
+    <nhmonkey.Recorder_-Input>
+      <name>i1</name>
+      <value>They found the man.</value>
+    </nhmonkey.Recorder_-Input>
+    <nhmonkey.Recorder_-Input>
+      <name>i2</name>
+      <value>He reached the airport in time.</value>
+    </nhmonkey.Recorder_-Input>
+    <nhmonkey.Recorder_-Input>
+      <name>i3</name>
+      <value>The young marine sat by the old man the whole night.</value>
+    </nhmonkey.Recorder_-Input>
+    <nhmonkey.Recorder_-Input>
+      <name>i4</name>
+      <value>The young marine sat by the old man the whole night.</value>
+    </nhmonkey.Recorder_-Input>
+    <nhmonkey.Recorder_-Input>
+      <name>i5</name>
+      <value>A message came saying the real son was arriving.</value>
+    </nhmonkey.Recorder_-Input>
+  </inputs>
+</nhmonkey.Recorder_-Form>

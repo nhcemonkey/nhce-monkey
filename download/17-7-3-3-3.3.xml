@@ -1,0 +1,64 @@
+<!-- Answer Record of Mr. Monkey V2.6b-->
+<!-- Generated in Sun Jun 10 20:45:13 CST 2012 -->
+
+<nhmonkey.Recorder_-Form>
+  <bookID>17</bookID>
+  <unitID>7</unitID>
+  <sectionID>3</sectionID>
+  <sisterID>3</sisterID>
+  <testID>3.3</testID>
+  <inputs>
+    <nhmonkey.Recorder_-Input>
+      <name>Item_688_0</name>
+      <value>abolished</value>
+    </nhmonkey.Recorder_-Input>
+    <nhmonkey.Recorder_-Input>
+      <name>Item_689_0</name>
+      <value>bribing</value>
+    </nhmonkey.Recorder_-Input>
+    <nhmonkey.Recorder_-Input>
+      <name>Item_690_0</name>
+      <value>arrested</value>
+    </nhmonkey.Recorder_-Input>
+    <nhmonkey.Recorder_-Input>
+      <name>Item_691_0</name>
+      <value>propose</value>
+    </nhmonkey.Recorder_-Input>
+    <nhmonkey.Recorder_-Input>
+      <name>Item_692_0</name>
+      <value>vote</value>
+    </nhmonkey.Recorder_-Input>
+    <nhmonkey.Recorder_-Input>
+      <name>Item_693_0</name>
+      <value>amend</value>
+    </nhmonkey.Recorder_-Input>
+    <nhmonkey.Recorder_-Input>
+      <name>Item_694_0</name>
+      <value>regulating</value>
+    </nhmonkey.Recorder_-Input>
+    <nhmonkey.Recorder_-Input>
+      <name>Item_695_0</name>
+      <value>discriminate</value>
+    </nhmonkey.Recorder_-Input>
+    <nhmonkey.Recorder_-Input>
+      <name>Item_696_0</name>
+      <value>reverse</value>
+    </nhmonkey.Recorder_-Input>
+    <nhmonkey.Recorder_-Input>
+      <name>Item_697_0</name>
+      <value>witness</value>
+    </nhmonkey.Recorder_-Input>
+    <nhmonkey.Recorder_-Input>
+      <name>Item_698_0</name>
+      <value>approximate</value>
+    </nhmonkey.Recorder_-Input>
+    <nhmonkey.Recorder_-Input>
+      <name>Item_699_0</name>
+      <value>accords</value>
+    </nhmonkey.Recorder_-Input>
+    <nhmonkey.Recorder_-Input>
+      <name>Item_700_0</name>
+      <value>evil</value>
+    </nhmonkey.Recorder_-Input>
+  </inputs>
+</nhmonkey.Recorder_-Form>

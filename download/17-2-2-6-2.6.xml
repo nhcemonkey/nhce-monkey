@@ -1,0 +1,36 @@
+<!-- Answer Record of Mr. Monkey V2.6b-->
+<!-- Generated in Thu May 31 13:23:27 CST 2012 -->
+
+<nhmonkey.Recorder_-Form>
+  <bookID>17</bookID>
+  <unitID>2</unitID>
+  <sectionID>2</sectionID>
+  <sisterID>6</sisterID>
+  <testID>2.6</testID>
+  <inputs>
+    <nhmonkey.Recorder_-Input>
+      <name>Item_138</name>
+      <value>作为补救缺铁的一种办法，专家推荐食用肉、鸡和鱼，它们是最好的铁质来源，也是唯一最容易被身体吸收的铁质来源。</value>
+    </nhmonkey.Recorder_-Input>
+    <nhmonkey.Recorder_-Input>
+      <name>Item_139</name>
+      <value>铁质储量为零时，你会觉得虚弱，疲乏无力，喘不过气，这是缺铁第三阶段的典型症状。</value>
+    </nhmonkey.Recorder_-Input>
+    <nhmonkey.Recorder_-Input>
+      <name>Item_140</name>
+      <value>耐力运动员，尤其是女性，经常会缺铁，如果增食肉类食物或服用铁质补剂，能够恢复到健康状态。</value>
+    </nhmonkey.Recorder_-Input>
+    <nhmonkey.Recorder_-Input>
+      <name>Item_141</name>
+      <value>这位运动医学专家认为，感到劳累、工作效率差的人，最好食用牛肉、羊肉，它们含有最易被吸收的铁质。</value>
+    </nhmonkey.Recorder_-Input>
+    <nhmonkey.Recorder_-Input>
+      <name>Item_142</name>
+      <value>铁质储量低的人应该去咨询医生，看看是否应通过调整饮食或服用铁质补剂来校正不足。</value>
+    </nhmonkey.Recorder_-Input>
+    <nhmonkey.Recorder_-Input>
+      <name>Item_143</name>
+      <value>一般说来，如果你忽视自己摄入的铁质含量，不在铁质储备失去之前注意警告信号，你会有危险。</value>
+    </nhmonkey.Recorder_-Input>
+  </inputs>
+</nhmonkey.Recorder_-Form>

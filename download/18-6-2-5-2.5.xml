@@ -1,0 +1,36 @@
+<!-- Answer Record of Mr. Monkey V2.4-4-->
+<!-- Generated in Fri Mar 16 17:36:13 CST 2012 -->
+
+<nhmonkey.Recorder_-Form>
+  <bookID>18</bookID>
+  <unitID>6</unitID>
+  <sectionID>2</sectionID>
+  <sisterID>5</sisterID>
+  <testID>2.5</testID>
+  <inputs>
+    <nhmonkey.Recorder_-Input>
+      <name>Item_110</name>
+      <value>Suppose you found out that your colleague takes bribes, would you just ignore it?</value>
+    </nhmonkey.Recorder_-Input>
+    <nhmonkey.Recorder_-Input>
+      <name>Item_111</name>
+      <value>We&apos;ve given up on him because he is so stubborn. It is pointless to argue with him.</value>
+    </nhmonkey.Recorder_-Input>
+    <nhmonkey.Recorder_-Input>
+      <name>Item_112</name>
+      <value>He hit upon a good method to speed up the progress of the experiment, but opinions differed among members of the group on it.</value>
+    </nhmonkey.Recorder_-Input>
+    <nhmonkey.Recorder_-Input>
+      <name>Item_113</name>
+      <value>Today I&apos;m able to square my profession with my interest, which I wasn&apos;t able to do before.</value>
+    </nhmonkey.Recorder_-Input>
+    <nhmonkey.Recorder_-Input>
+      <name>Item_114</name>
+      <value>The ability to visually distinguish between red and green is essential to becoming a driver.</value>
+    </nhmonkey.Recorder_-Input>
+    <nhmonkey.Recorder_-Input>
+      <name>Item_115</name>
+      <value>The team consisted of seven people who met on a regular basis to share their information with each other.</value>
+    </nhmonkey.Recorder_-Input>
+  </inputs>
+</nhmonkey.Recorder_-Form>

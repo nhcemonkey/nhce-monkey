@@ -1,0 +1,36 @@
+<!-- Answer Record of Mr. Monkey V2.6b-->
+<!-- Generated in Sun Nov 04 10:54:21 CST 2012 -->
+
+<nhmonkey.Recorder_-Form>
+  <bookID>15</bookID>
+  <unitID>5</unitID>
+  <sectionID>3</sectionID>
+  <sisterID>1</sisterID>
+  <testID>3.1</testID>
+  <inputs>
+    <nhmonkey.Recorder_-Input>
+      <name>i1</name>
+      <value>I hurt myself when diving.</value>
+    </nhmonkey.Recorder_-Input>
+    <nhmonkey.Recorder_-Input>
+      <name>i2</name>
+      <value>I hit my head on the board.</value>
+    </nhmonkey.Recorder_-Input>
+    <nhmonkey.Recorder_-Input>
+      <name>i3</name>
+      <value>I was very worried about something serious.</value>
+    </nhmonkey.Recorder_-Input>
+    <nhmonkey.Recorder_-Input>
+      <name>i4</name>
+      <value>I was very worried that my wound had left blood in the pool.</value>
+    </nhmonkey.Recorder_-Input>
+    <nhmonkey.Recorder_-Input>
+      <name>i5</name>
+      <value>There was something more significant than winning.</value>
+    </nhmonkey.Recorder_-Input>
+    <nhmonkey.Recorder_-Input>
+      <name>i6</name>
+      <value>I was very worried that I might infect other divers with AIDS as I spilled my blood in the pool.</value>
+    </nhmonkey.Recorder_-Input>
+  </inputs>
+</nhmonkey.Recorder_-Form>

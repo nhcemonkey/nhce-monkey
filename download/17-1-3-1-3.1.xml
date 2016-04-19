@@ -1,0 +1,32 @@
+<!-- Answer Record of Mr. Monkey V2.6b-->
+<!-- Generated in Thu May 31 13:10:25 CST 2012 -->
+
+<nhmonkey.Recorder_-Form>
+  <bookID>17</bookID>
+  <unitID>1</unitID>
+  <sectionID>3</sectionID>
+  <sisterID>1</sisterID>
+  <testID>3.1</testID>
+  <inputs>
+    <nhmonkey.Recorder_-Input>
+      <name>Item_0</name>
+      <value>It was an autumn night in my native Nova Scotia.</value>
+    </nhmonkey.Recorder_-Input>
+    <nhmonkey.Recorder_-Input>
+      <name>Item_1</name>
+      <value>They were vacationing in (it) for the weekend.</value>
+    </nhmonkey.Recorder_-Input>
+    <nhmonkey.Recorder_-Input>
+      <name>Item_2</name>
+      <value>It took me years, though, to learn that the love in our family didn&apos;t just happen.</value>
+    </nhmonkey.Recorder_-Input>
+    <nhmonkey.Recorder_-Input>
+      <name>Item_3</name>
+      <value>First, love needs time. (Para. 3) Love needs another, harder to find quality as well, the ability to let go. (Para. 7) Finally, love needs words to make it real. (Para. 11)</value>
+    </nhmonkey.Recorder_-Input>
+    <nhmonkey.Recorder_-Input>
+      <name>Item_4</name>
+      <value>It can only be achieved through patience and understanding.</value>
+    </nhmonkey.Recorder_-Input>
+  </inputs>
+</nhmonkey.Recorder_-Form>

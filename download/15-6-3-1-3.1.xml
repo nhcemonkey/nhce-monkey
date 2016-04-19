@@ -1,0 +1,32 @@
+<!-- Answer Record of Mr. Monkey V2.6b-->
+<!-- Generated in Wed Jan 11 05:50:01 CST 2006 -->
+
+<nhmonkey.Recorder_-Form>
+  <bookID>15</bookID>
+  <unitID>6</unitID>
+  <sectionID>3</sectionID>
+  <sisterID>1</sisterID>
+  <testID>3.1</testID>
+  <inputs>
+    <nhmonkey.Recorder_-Input>
+      <name>i1</name>
+      <value>spend part of his time on</value>
+    </nhmonkey.Recorder_-Input>
+    <nhmonkey.Recorder_-Input>
+      <name>i2</name>
+      <value>continue to support himself with drugs and food</value>
+    </nhmonkey.Recorder_-Input>
+    <nhmonkey.Recorder_-Input>
+      <name>i3</name>
+      <value>settle their accounts with the company/any money owed to them</value>
+    </nhmonkey.Recorder_-Input>
+    <nhmonkey.Recorder_-Input>
+      <name>i4</name>
+      <value>nervous and worried</value>
+    </nhmonkey.Recorder_-Input>
+    <nhmonkey.Recorder_-Input>
+      <name>i5</name>
+      <value>a person who is likely to suffer a heart attack</value>
+    </nhmonkey.Recorder_-Input>
+  </inputs>
+</nhmonkey.Recorder_-Form>

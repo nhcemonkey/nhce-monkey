@@ -1,0 +1,52 @@
+<!-- Answer Record of Mr. Monkey V2.3-->
+<!-- Generated in Sun Mar 11 11:09:13 CST 2012 -->
+
+<nhmonkey.Recorder_-Form>
+  <bookID>18</bookID>
+  <unitID>3</unitID>
+  <sectionID>2</sectionID>
+  <sisterID>3</sisterID>
+  <testID>2.3</testID>
+  <inputs>
+    <nhmonkey.Recorder_-Input>
+      <name>Item_317_0</name>
+      <value>notify</value>
+    </nhmonkey.Recorder_-Input>
+    <nhmonkey.Recorder_-Input>
+      <name>Item_317_1</name>
+      <value>compensation</value>
+    </nhmonkey.Recorder_-Input>
+    <nhmonkey.Recorder_-Input>
+      <name>Item_317_2</name>
+      <value>pension</value>
+    </nhmonkey.Recorder_-Input>
+    <nhmonkey.Recorder_-Input>
+      <name>Item_317_3</name>
+      <value>neglected</value>
+    </nhmonkey.Recorder_-Input>
+    <nhmonkey.Recorder_-Input>
+      <name>Item_317_4</name>
+      <value>receipt</value>
+    </nhmonkey.Recorder_-Input>
+    <nhmonkey.Recorder_-Input>
+      <name>Item_317_5</name>
+      <value>provision</value>
+    </nhmonkey.Recorder_-Input>
+    <nhmonkey.Recorder_-Input>
+      <name>Item_317_6</name>
+      <value>occur</value>
+    </nhmonkey.Recorder_-Input>
+    <nhmonkey.Recorder_-Input>
+      <name>Item_317_7</name>
+      <value>misunderstand</value>
+    </nhmonkey.Recorder_-Input>
+    <nhmonkey.Recorder_-Input>
+      <name>Item_317_8</name>
+      <value>ridiculous</value>
+    </nhmonkey.Recorder_-Input>
+    <nhmonkey.Recorder_-Input>
+      <name>Item_317_9</name>
+      <value>recovery</value>
+    </nhmonkey.Recorder_-Input>
+  </inputs>
+</nhmonkey.Recorder_-Form>

@@ -1,0 +1,52 @@
+<!-- Answer Record of Mr. Monkey V2.4-->
+<!-- Generated in Sun Mar 11 20:30:00 CST 2012 -->
+
+<nhmonkey.Recorder_-Form>
+  <bookID>18</bookID>
+  <unitID>4</unitID>
+  <sectionID>4</sectionID>
+  <sisterID>2</sisterID>
+  <testID>4.2</testID>
+  <inputs>
+    <nhmonkey.Recorder_-Input>
+      <name>q1</name>
+      <value>A</value>
+    </nhmonkey.Recorder_-Input>
+    <nhmonkey.Recorder_-Input>
+      <name>q2</name>
+      <value>C</value>
+    </nhmonkey.Recorder_-Input>
+    <nhmonkey.Recorder_-Input>
+      <name>q3</name>
+      <value>D</value>
+    </nhmonkey.Recorder_-Input>
+    <nhmonkey.Recorder_-Input>
+      <name>q4</name>
+      <value>C</value>
+    </nhmonkey.Recorder_-Input>
+    <nhmonkey.Recorder_-Input>
+      <name>q5</name>
+      <value>D</value>
+    </nhmonkey.Recorder_-Input>
+    <nhmonkey.Recorder_-Input>
+      <name>q6</name>
+      <value>A</value>
+    </nhmonkey.Recorder_-Input>
+    <nhmonkey.Recorder_-Input>
+      <name>q7</name>
+      <value>B</value>
+    </nhmonkey.Recorder_-Input>
+    <nhmonkey.Recorder_-Input>
+      <name>q8</name>
+      <value>refined starch and sugar</value>
+    </nhmonkey.Recorder_-Input>
+    <nhmonkey.Recorder_-Input>
+      <name>q9</name>
+      <value>Quality of diet</value>
+    </nhmonkey.Recorder_-Input>
+    <nhmonkey.Recorder_-Input>
+      <name>q10</name>
+      <value>most fruits</value>
+    </nhmonkey.Recorder_-Input>
+  </inputs>
+</nhmonkey.Recorder_-Form>

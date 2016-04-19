@@ -1,0 +1,52 @@
+<!-- Answer Record of Mr. Monkey V2.5c-->
+<!-- Generated in Sun Apr 08 22:12:14 CST 2012 -->
+
+<nhmonkey.Recorder_-Form>
+  <bookID>16</bookID>
+  <unitID>9</unitID>
+  <sectionID>2</sectionID>
+  <sisterID>3</sisterID>
+  <testID>2.3</testID>
+  <inputs>
+    <nhmonkey.Recorder_-Input>
+      <name>Item_450_0</name>
+      <value>asset</value>
+    </nhmonkey.Recorder_-Input>
+    <nhmonkey.Recorder_-Input>
+      <name>Item_450_1</name>
+      <value>concessions</value>
+    </nhmonkey.Recorder_-Input>
+    <nhmonkey.Recorder_-Input>
+      <name>Item_450_2</name>
+      <value>motivated</value>
+    </nhmonkey.Recorder_-Input>
+    <nhmonkey.Recorder_-Input>
+      <name>Item_450_3</name>
+      <value>journalist</value>
+    </nhmonkey.Recorder_-Input>
+    <nhmonkey.Recorder_-Input>
+      <name>Item_450_4</name>
+      <value>competitive</value>
+    </nhmonkey.Recorder_-Input>
+    <nhmonkey.Recorder_-Input>
+      <name>Item_450_5</name>
+      <value>prospects</value>
+    </nhmonkey.Recorder_-Input>
+    <nhmonkey.Recorder_-Input>
+      <name>Item_450_6</name>
+      <value>delivering</value>
+    </nhmonkey.Recorder_-Input>
+    <nhmonkey.Recorder_-Input>
+      <name>Item_450_7</name>
+      <value>fascinated</value>
+    </nhmonkey.Recorder_-Input>
+    <nhmonkey.Recorder_-Input>
+      <name>Item_450_8</name>
+      <value>enrolling</value>
+    </nhmonkey.Recorder_-Input>
+    <nhmonkey.Recorder_-Input>
+      <name>Item_450_9</name>
+      <value>keen</value>
+    </nhmonkey.Recorder_-Input>
+  </inputs>
+</nhmonkey.Recorder_-Form>

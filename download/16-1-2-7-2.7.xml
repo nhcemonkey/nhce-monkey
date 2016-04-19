@@ -1,0 +1,16 @@
+<!-- Answer Record of NHCEHack V2.0-->
+<!-- Generated in Mon Jan 09 20:01:36 CST 2012 -->
+
+<nhmonkey.Recorder_-Form>
+  <bookID>16</bookID>
+  <unitID>1</unitID>
+  <sectionID>2</sectionID>
+  <sisterID>7</sisterID>
+  <testID>2.7</testID>
+  <inputs>
+    <nhmonkey.Recorder_-Input>
+      <name>textarea</name>
+      <value>A larger and larger part of society is expressing its concern about environmental protection. Active in their concern, teachers and students hold specific meetings to discuss environmental protection. Also, city planners take environmental problems into serious consideration. And, though reducing pollution can be expensive, factories often take every possible measure to do their part. Many people are concerned and active because air and water pollution affects everyone and makes it difficult for cities to survive and businesses to make a profit.</value>
+    </nhmonkey.Recorder_-Input>
+  </inputs>
+</nhmonkey.Recorder_-Form>

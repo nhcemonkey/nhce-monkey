@@ -1,0 +1,52 @@
+<!-- Answer Record of Mr. Monkey V2.5c-->
+<!-- Generated in Fri Apr 06 14:12:08 CST 2012 -->
+
+<nhmonkey.Recorder_-Form>
+  <bookID>16</bookID>
+  <unitID>1</unitID>
+  <sectionID>3</sectionID>
+  <sisterID>4</sisterID>
+  <testID>3.4</testID>
+  <inputs>
+    <nhmonkey.Recorder_-Input>
+      <name>Item_46_0</name>
+      <value>interact with</value>
+    </nhmonkey.Recorder_-Input>
+    <nhmonkey.Recorder_-Input>
+      <name>Item_47_0</name>
+      <value>gone through</value>
+    </nhmonkey.Recorder_-Input>
+    <nhmonkey.Recorder_-Input>
+      <name>Item_48_0</name>
+      <value>deal with</value>
+    </nhmonkey.Recorder_-Input>
+    <nhmonkey.Recorder_-Input>
+      <name>Item_49_0</name>
+      <value>recovered from</value>
+    </nhmonkey.Recorder_-Input>
+    <nhmonkey.Recorder_-Input>
+      <name>Item_50_0</name>
+      <value>adjusting to</value>
+    </nhmonkey.Recorder_-Input>
+    <nhmonkey.Recorder_-Input>
+      <name>Item_51_0</name>
+      <value>familiar to</value>
+    </nhmonkey.Recorder_-Input>
+    <nhmonkey.Recorder_-Input>
+      <name>Item_52_0</name>
+      <value>In spite of</value>
+    </nhmonkey.Recorder_-Input>
+    <nhmonkey.Recorder_-Input>
+      <name>Item_53_0</name>
+      <value>were tired of</value>
+    </nhmonkey.Recorder_-Input>
+    <nhmonkey.Recorder_-Input>
+      <name>Item_54_0</name>
+      <value>prevented from</value>
+    </nhmonkey.Recorder_-Input>
+    <nhmonkey.Recorder_-Input>
+      <name>Item_55_0</name>
+      <value>came to</value>
+    </nhmonkey.Recorder_-Input>
+  </inputs>
+</nhmonkey.Recorder_-Form>

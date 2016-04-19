@@ -1,0 +1,52 @@
+<!-- Answer Record of Mr. Monkey V2.5c-->
+<!-- Generated in Sun Apr 08 20:34:04 CST 2012 -->
+
+<nhmonkey.Recorder_-Form>
+  <bookID>16</bookID>
+  <unitID>8</unitID>
+  <sectionID>4</sectionID>
+  <sisterID>1</sisterID>
+  <testID>4.1</testID>
+  <inputs>
+    <nhmonkey.Recorder_-Input>
+      <name>q1</name>
+      <value>Y</value>
+    </nhmonkey.Recorder_-Input>
+    <nhmonkey.Recorder_-Input>
+      <name>q2</name>
+      <value>Y</value>
+    </nhmonkey.Recorder_-Input>
+    <nhmonkey.Recorder_-Input>
+      <name>q3</name>
+      <value>Y</value>
+    </nhmonkey.Recorder_-Input>
+    <nhmonkey.Recorder_-Input>
+      <name>q4</name>
+      <value>N</value>
+    </nhmonkey.Recorder_-Input>
+    <nhmonkey.Recorder_-Input>
+      <name>q5</name>
+      <value>N</value>
+    </nhmonkey.Recorder_-Input>
+    <nhmonkey.Recorder_-Input>
+      <name>q6</name>
+      <value>NG</value>
+    </nhmonkey.Recorder_-Input>
+    <nhmonkey.Recorder_-Input>
+      <name>q7</name>
+      <value>N</value>
+    </nhmonkey.Recorder_-Input>
+    <nhmonkey.Recorder_-Input>
+      <name>q8</name>
+      <value>Eastern Europe</value>
+    </nhmonkey.Recorder_-Input>
+    <nhmonkey.Recorder_-Input>
+      <name>q9</name>
+      <value>psychological and social</value>
+    </nhmonkey.Recorder_-Input>
+    <nhmonkey.Recorder_-Input>
+      <name>q10</name>
+      <value>a low level</value>
+    </nhmonkey.Recorder_-Input>
+  </inputs>
+</nhmonkey.Recorder_-Form>
